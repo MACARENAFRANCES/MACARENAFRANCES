@@ -1,5 +1,5 @@
 ## Hi there 👋
-Economics and Data Science student with a background in Marketing. Always eager to learn and explore new things.
+Economics and Data Science student and Marketing graduated. Always eager to learn and explore new things.
 
 ## About Me
 - **Programming Languages:** Python, R, SQL
