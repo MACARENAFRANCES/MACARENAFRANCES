@@ -1,5 +1,5 @@
 ## Hi there 👋
-Economics and Data Science student and Marketing graduated. Always eager to learn and explore new things.
+Economics and Computer Science student and Marketing graduated. Always eager to learn and explore new things.
 
 - **Programming Languages:** Python, R, SQL
 - **Data Analysis Tools:** Tableau, Power BI, Excel, MATLAB, Gretl
